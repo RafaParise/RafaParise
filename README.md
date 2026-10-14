@@ -12,12 +12,15 @@ sala de aula.
 - Programação Back-End e Front-End
 - Modelagem e Desenvolvimento de Banco de Dados
 
-## Projeto em destaque: ARENA — o console da turma
+## Projeto em destaque: ARENA — central retrô da turma
 
 <a href="https://github.com/RafaParise/arena-console">
-  <img src="https://raw.githubusercontent.com/RafaParise/arena-console/main/docs/imagens/arena-capa.png"
-       width="640"
-       alt="ARENA, o console da turma: o nome em letras douradas sobre um céu de galáxia em pixel art, com a frase jogos retrô na sala de aula, roda de pen drive, sem instalar nada">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaParise/arena-console/main/docs/imagens/arena-claro.gif">
+    <img src="https://raw.githubusercontent.com/RafaParise/arena-console/main/docs/imagens/arena-escuro.gif"
+         width="640"
+         alt="ARENA, central retrô da turma: o nome em letras douradas sobre o fundo animado em pixel art do ARENA. No tema escuro, Mario e Luigi correm na Rainbow Road pelo céu de galáxia; no tema claro, o Yoshi come uma frutinha no campo florido">
+  </picture>
 </a>
 
 Central de jogos retrô portátil para a sala de aula. Reúne numa tela só, em
